@@ -20,6 +20,10 @@
 wget -O zipkin.jar 'https://search.maven.org/remote_content?g=io.zipkin.java&a=zipkin-server&v=LATEST&c=exec'
 ```
 
+```
+docker-compose up 
+```
+
 
 
 ** http://localhost:9411/zipkin/  **
